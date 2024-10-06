@@ -9,11 +9,11 @@ This repository contains a collection of simple and easy-to-follow lessons on va
 
 + Introduction to Cybersecurity: Learn the basics of what cybersecurity is and why it's essential.
 + Reverse Engineer: Learn how to deconstruct and analyze software to understand its functionality and identify vulnerabilities.
-+ Network Security: Explore concepts like firewalls, VPNs, and basic network protocols.
++ Network Security: Explore concepts like network protocols.
 + Cryptography Fundamentals: Understand encryption, hashing, and digital signatures.
 + Web Application Security: Learn about common vulnerabilities like SQL injection and XSS attacks.
 + Ethical Hacking Basics: Get an introduction to penetration testing and ethical hacking techniques.
-+ Malware and Threats: Discover different types of malware and how to protect against them.
++ Malware and Threats: Discover different types of malware and how to analyze them.
 + Security Best Practices: Learn how to secure systems, manage passwords, and practice safe browsing.
 
 ## Features
