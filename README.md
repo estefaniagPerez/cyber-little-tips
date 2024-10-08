@@ -7,14 +7,14 @@ This repository contains a collection of simple and easy-to-follow lessons on va
 
 ## Key Topics Covered
 
-+ Introduction to Cybersecurity: Learn the basics of what cybersecurity is and why it's essential.
-+ Reverse Engineer: Learn how to deconstruct and analyze software to understand its functionality and identify vulnerabilities.
-+ Network Security: Explore concepts like network protocols.
-+ Cryptography Fundamentals: Understand encryption, hashing, and digital signatures.
-+ Web Application Security: Learn about common vulnerabilities like SQL injection and XSS attacks.
-+ Ethical Hacking Basics: Get an introduction to penetration testing and ethical hacking techniques.
-+ Malware and Threats: Discover different types of malware and how to analyze them.
-+ Security Best Practices: Learn how to secure systems, manage passwords, and practice safe browsing.
++ [Introduction to Cybersecurity](https://github.com/estefaniagPerez/cyber-little-tips/wiki): Learn the basics of what cybersecurity is and why it's essential. *(WIP)*
++ Reverse Engineer: Learn how to deconstruct and analyze software to understand its functionality and identify vulnerabilities. *(Pending)*
++ Network Security: Explore concepts like network protocols. *(Pending)*
++ Cryptography Fundamentals: Understand encryption, hashing, and digital signatures. *(Pending)*
++ Web Application Security: Learn about common vulnerabilities like SQL injection and XSS attacks. *(Pending)*
++ Ethical Hacking Basics: Get an introduction to penetration testing and ethical hacking techniques. *(Pending)*
++ Malware and Threats: Discover different types of malware and how to analyze them. *(Pending)*
++ Security Best Practices: Learn how to secure systems, manage passwords, and practice safe browsing. *(Pending)*
 
 ## Features
 
